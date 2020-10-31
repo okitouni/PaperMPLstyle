@@ -1,7 +1,7 @@
 lines.color: black
 patch.edgecolor: black
 
-text.usetex : True
+#text.usetex : True
 text.color: black
 font.serif: Bitstream Vera Serif #Computer Modern Roman
 font.family: serif
