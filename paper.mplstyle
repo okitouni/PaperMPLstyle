@@ -9,7 +9,7 @@ font.family: serif
 axes.facecolor: white #light gray eeeeee
 axes.edgecolor: black
 axes.labelcolor: black
-axes.prop_cycle: cycler('color', ['royalblue', '228833','cc3311', 'ee7733',  '009988', 'ccbb44', 'bb5566', '332288', '66ccee', '4477aa'])
+axes.prop_cycle: cycler('color', ['royalblue', '#228833','#cc3311', '#ee7733',  '#009988', '#ccbb44', '#bb5566', '#332288', '#66ccee', '#4477aa'])
 axes.labelsize:     large  # fontsize of the x any y labels
 axes.titlesize      : x-large   ## fontsize of the axes title
 
